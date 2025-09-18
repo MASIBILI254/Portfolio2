@@ -107,7 +107,7 @@ export default function ProfileCard() {
             using React for the frontend and Node.js for the backend.
             <br />
             <strong>Technologies:</strong> React, Node.js, Express, MongoDB, Google Maps API <br />
-         <a href=""><strong>See here</strong></a>   
+         <a href="https://stagelocator-frontend.onrender.com"><strong>See here</strong></a>   
           </li>
           <br />
           <li>
